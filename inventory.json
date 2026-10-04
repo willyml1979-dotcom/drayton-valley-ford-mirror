@@ -1,6 +1,6 @@
 {
   "dealership": "Drayton Valley Ford",
-  "generated_at": "2026-10-02T17:14:08",
+  "generated_at": "2026-10-03T17:13:54",
   "vehicle_count": 24,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
@@ -26,7 +26,7 @@
       "url": "https://willyml1979-dotcom.github.io/drayton-valley-ford-mirror/used/141a86750867.html",
       "source_url": "https://www.draytonvalleyford.com/inventory/2018-ford-super-duty-f-350-srw-KAK2MDPlQqe1rLjwRyiyAQvdp",
       "dealer_url": "https://www.draytonvalleyford.com/inventory/2018-ford-super-duty-f-350-srw-KAK2MDPlQqe1rLjwRyiyAQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-02T17:09:17",
+      "last_verified": "2026-10-03T17:12:03",
       "price": 52178.0,
       "price_currency": "CAD",
       "condition": "used"
@@ -52,7 +52,7 @@
       "url": "https://willyml1979-dotcom.github.io/drayton-valley-ford-mirror/used/64969b1c02d5.html",
       "source_url": "https://www.draytonvalleyford.com/inventory/2021-ram-1500-classic-warlock-Ps0ecoiHSEq2wlg3H1BifQvdp",
       "dealer_url": "https://www.draytonvalleyford.com/inventory/2021-ram-1500-classic-warlock-Ps0ecoiHSEq2wlg3H1BifQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-02T17:09:36",
+      "last_verified": "2026-10-03T17:12:28",
       "price": 34178.0,
       "price_currency": "CAD",
       "condition": "used"
@@ -77,7 +77,7 @@
       "url": "https://willyml1979-dotcom.github.io/drayton-valley-ford-mirror/used/ee9f63177c58.html",
       "source_url": "https://www.draytonvalleyford.com/inventory/2022-ford-edge-VpTqNKZ2TGiuSxzqnVYmAQvdp",
       "dealer_url": "https://www.draytonvalleyford.com/inventory/2022-ford-edge-VpTqNKZ2TGiuSxzqnVYmAQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-02T17:09:58",
+      "last_verified": "2026-10-03T17:12:49",
       "price": 22178.0,
       "price_currency": "CAD",
       "condition": "used"
@@ -90,7 +90,7 @@
       "url": "https://willyml1979-dotcom.github.io/drayton-valley-ford-mirror/used/8c25040bc576.html",
       "source_url": "https://www.draytonvalleyford.com/inventory/2022-ford-f-150-xlt-8wKdsfukQMCbUFz6xAtDIQvdp",
       "dealer_url": "https://www.draytonvalleyford.com/inventory/2022-ford-f-150-xlt-8wKdsfukQMCbUFz6xAtDIQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-02T17:10:09",
+      "last_verified": "2026-10-03T17:12:58",
       "price": 39178.0,
       "price_currency": "CAD",
       "condition": "used"
@@ -129,7 +129,7 @@
       "url": "https://willyml1979-dotcom.github.io/drayton-valley-ford-mirror/used/9b8c03e3324a.html",
       "source_url": "https://www.draytonvalleyford.com/inventory/2023-gmc-terrain-sle-2hPvh6nYSh6PWnCoLjfHdAvdp",
       "dealer_url": "https://www.draytonvalleyford.com/inventory/2023-gmc-terrain-sle-2hPvh6nYSh6PWnCoLjfHdAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-02T17:10:40",
+      "last_verified": "2026-10-03T17:13:28",
       "price": 24178.0,
       "price_currency": "CAD",
       "condition": "used"
@@ -142,7 +142,7 @@
       "url": "https://willyml1979-dotcom.github.io/drayton-valley-ford-mirror/used/d33fd77c4304.html",
       "source_url": "https://www.draytonvalleyford.com/inventory/2024-ford-f-150-lariat-kvd2BpJOQtajXm9caN2EEQvdp",
       "dealer_url": "https://www.draytonvalleyford.com/inventory/2024-ford-f-150-lariat-kvd2BpJOQtajXm9caN2EEQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-02T17:10:51",
+      "last_verified": "2026-10-03T17:13:39",
       "price": 57178.0,
       "price_currency": "CAD",
       "condition": "used"
