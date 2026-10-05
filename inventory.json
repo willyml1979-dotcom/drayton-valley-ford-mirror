@@ -1,7 +1,7 @@
 {
   "dealership": "Drayton Valley Ford",
-  "generated_at": "2026-10-03T17:17:21",
-  "vehicle_count": 24,
+  "generated_at": "2026-10-04T17:30:21",
+  "vehicle_count": 23,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
   "vehicles": [
@@ -168,9 +168,10 @@
       "url": "https://willyml1979-dotcom.github.io/drayton-valley-ford-mirror/new/923ffa6be7e5.html",
       "source_url": "https://www.draytonvalleyford.com/inventory/2026-ford-bronco-big-bend-1B0ZThG8QVKU7nuy1OTXWwvdp",
       "dealer_url": "https://www.draytonvalleyford.com/inventory/2026-ford-bronco-big-bend-1B0ZThG8QVKU7nuy1OTXWwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-03T17:15:26",
+      "last_verified": "2026-10-04T17:28:22",
       "price": 65828.0,
       "price_currency": "CAD",
+      "odometer_km": 16000,
       "condition": "new"
     },
     {
@@ -181,9 +182,10 @@
       "url": "https://willyml1979-dotcom.github.io/drayton-valley-ford-mirror/new/6f1b09cda6d2.html",
       "source_url": "https://www.draytonvalleyford.com/inventory/2026-ford-bronco-sport-badlands-xHVurEoTRBWy7PnOlRLVTQvdp",
       "dealer_url": "https://www.draytonvalleyford.com/inventory/2026-ford-bronco-sport-badlands-xHVurEoTRBWy7PnOlRLVTQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-02T17:12:01",
+      "last_verified": "2026-10-04T17:28:34",
       "price": 55368.0,
       "price_currency": "CAD",
+      "odometer_km": 16000,
       "condition": "new"
     },
     {
@@ -194,7 +196,7 @@
       "url": "https://willyml1979-dotcom.github.io/drayton-valley-ford-mirror/new/7b92c1f75047.html",
       "source_url": "https://www.draytonvalleyford.com/inventory/2026-ford-f-150-tremor-jMy5ybg3T52JdZvC1XSMkgvdp",
       "dealer_url": "https://www.draytonvalleyford.com/inventory/2026-ford-f-150-tremor-jMy5ybg3T52JdZvC1XSMkgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-03T17:15:48",
+      "last_verified": "2026-10-04T17:28:47",
       "price": 97208.0,
       "price_currency": "CAD",
       "condition": "new"
@@ -207,7 +209,7 @@
       "url": "https://willyml1979-dotcom.github.io/drayton-valley-ford-mirror/new/59a2765054c8.html",
       "source_url": "https://www.draytonvalleyford.com/inventory/2026-ford-f-150-xlt-9g5Au5mGRNKP07Naa8h1Qwvdp",
       "dealer_url": "https://www.draytonvalleyford.com/inventory/2026-ford-f-150-xlt-9g5Au5mGRNKP07Naa8h1Qwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-03T17:16:01",
+      "last_verified": "2026-10-04T17:28:58",
       "price": 82868.0,
       "price_currency": "CAD",
       "condition": "new"
@@ -220,9 +222,10 @@
       "url": "https://willyml1979-dotcom.github.io/drayton-valley-ford-mirror/new/43423b854ac1.html",
       "source_url": "https://www.draytonvalleyford.com/inventory/2026-ford-f-150-xlt-ZXRnTztFQWq6GkHsnMtdgAvdp",
       "dealer_url": "https://www.draytonvalleyford.com/inventory/2026-ford-f-150-xlt-ZXRnTztFQWq6GkHsnMtdgAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-03T17:16:11",
+      "last_verified": "2026-10-04T17:29:10",
       "price": 82988.0,
       "price_currency": "CAD",
+      "odometer_km": 16000,
       "condition": "new"
     },
     {
@@ -233,7 +236,10 @@
       "url": "https://willyml1979-dotcom.github.io/drayton-valley-ford-mirror/new/a84bc9546609.html",
       "source_url": "https://www.draytonvalleyford.com/inventory/2026-ford-maverick-lariat-cEATzxAWQ3mjrU2hS1pE5wvdp",
       "dealer_url": "https://www.draytonvalleyford.com/inventory/2026-ford-maverick-lariat-cEATzxAWQ3mjrU2hS1pE5wvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-02T17:12:58",
+      "last_verified": "2026-10-04T17:29:20",
+      "price": 51226.0,
+      "price_currency": "CAD",
+      "odometer_km": 16000,
       "condition": "new"
     },
     {
@@ -244,20 +250,7 @@
       "url": "https://willyml1979-dotcom.github.io/drayton-valley-ford-mirror/new/da59d8a3a59a.html",
       "source_url": "https://www.draytonvalleyford.com/inventory/2026-ford-ranger-raptor-39m3eIDFS9KqvQt6djwn3Qvdp",
       "dealer_url": "https://www.draytonvalleyford.com/inventory/2026-ford-ranger-raptor-39m3eIDFS9KqvQt6djwn3Qvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-03T17:16:31",
-      "condition": "new"
-    },
-    {
-      "name": "New2026FordSuper Duty F-250 SRWXLT",
-      "vin": "1FT7W2BA4TEF59296",
-      "stock": "35953",
-      "color": "Gray",
-      "url": "https://willyml1979-dotcom.github.io/drayton-valley-ford-mirror/new/3d94845b515d.html",
-      "source_url": "https://www.draytonvalleyford.com/inventory/2026-ford-super-duty-f-250-srw-xlt-uuAZToQAQomc9qtdYg6uWQvdp",
-      "dealer_url": "https://www.draytonvalleyford.com/inventory/2026-ford-super-duty-f-250-srw-xlt-uuAZToQAQomc9qtdYg6uWQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-03T17:15:14",
-      "price": 93618.0,
-      "price_currency": "CAD",
+      "last_verified": "2026-10-04T17:29:33",
       "condition": "new"
     },
     {
@@ -268,7 +261,7 @@
       "url": "https://willyml1979-dotcom.github.io/drayton-valley-ford-mirror/new/1f25bccac507.html",
       "source_url": "https://www.draytonvalleyford.com/inventory/2026-ford-super-duty-f-350-srw-lariat-YLjIuDf3TduErORMvXYDewvdp",
       "dealer_url": "https://www.draytonvalleyford.com/inventory/2026-ford-super-duty-f-350-srw-lariat-YLjIuDf3TduErORMvXYDewvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-02T17:13:23",
+      "last_verified": "2026-10-04T17:29:44",
       "price": 120106.0,
       "price_currency": "CAD",
       "condition": "new"
@@ -294,7 +287,8 @@
       "url": "https://willyml1979-dotcom.github.io/drayton-valley-ford-mirror/new/41d831ad6f85.html",
       "source_url": "https://www.draytonvalleyford.com/inventory/2027-ford-super-duty-f-250-srw-lariat-NOyADrh2QwyiaukAwlgWAQvdp",
       "dealer_url": "https://www.draytonvalleyford.com/inventory/2027-ford-super-duty-f-250-srw-lariat-NOyADrh2QwyiaukAwlgWAQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-03T17:17:04",
+      "last_verified": "2026-10-04T17:30:05",
+      "odometer_km": 16000,
       "condition": "new"
     },
     {
@@ -305,7 +299,8 @@
       "url": "https://willyml1979-dotcom.github.io/drayton-valley-ford-mirror/new/33f13b451ad4.html",
       "source_url": "https://www.draytonvalleyford.com/inventory/2027-ford-super-duty-f-350-srw-platinum-rN2PigbpRyyGJD85IMf8Bwvdp",
       "dealer_url": "https://www.draytonvalleyford.com/inventory/2027-ford-super-duty-f-350-srw-platinum-rN2PigbpRyyGJD85IMf8Bwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-02T17:13:58",
+      "last_verified": "2026-10-04T17:30:17",
+      "odometer_km": 16000,
       "condition": "new"
     }
   ]
