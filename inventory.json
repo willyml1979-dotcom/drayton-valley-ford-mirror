@@ -1,7 +1,7 @@
 {
   "dealership": "Drayton Valley Ford",
-  "generated_at": "2026-10-04T17:30:21",
-  "vehicle_count": 23,
+  "generated_at": "2026-10-06T15:36:53",
+  "vehicle_count": 25,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
   "vehicles": [
@@ -39,9 +39,19 @@
       "url": "https://willyml1979-dotcom.github.io/drayton-valley-ford-mirror/used/d9ee64df53a4.html",
       "source_url": "https://www.draytonvalleyford.com/inventory/2019-ford-f-150-xlt-N1LYo0XbTk6UATTFIdd4NAvdp",
       "dealer_url": "https://www.draytonvalleyford.com/inventory/2019-ford-f-150-xlt-N1LYo0XbTk6UATTFIdd4NAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-02T17:09:27",
+      "last_verified": "2026-10-06T15:35:10",
       "price": 30623.0,
       "price_currency": "CAD",
+      "condition": "used"
+    },
+    {
+      "name": "Used2020FordEcoSportTitanium",
+      "vin": "MAJ6S3KLXLC332923",
+      "color": "Black",
+      "url": "https://willyml1979-dotcom.github.io/drayton-valley-ford-mirror/used/26191cbd8610.html",
+      "source_url": "https://www.draytonvalleyford.com/inventory/2020-ford-ecosport-titanium-CkCTHf45T3OTzIIvwWi2OAvdp",
+      "dealer_url": "https://www.draytonvalleyford.com/inventory/2020-ford-ecosport-titanium-CkCTHf45T3OTzIIvwWi2OAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-06T15:34:26",
       "condition": "used"
     },
     {
@@ -65,8 +75,8 @@
       "url": "https://willyml1979-dotcom.github.io/drayton-valley-ford-mirror/used/7c7898be5a28.html",
       "source_url": "https://www.draytonvalleyford.com/inventory/2022-ford-bronco-wildtrak-nPvmgBdfSkC59Qj1LyXkCwvdp",
       "dealer_url": "https://www.draytonvalleyford.com/inventory/2022-ford-bronco-wildtrak-nPvmgBdfSkC59Qj1LyXkCwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-02T17:09:49",
-      "price": 48623.0,
+      "last_verified": "2026-10-06T15:35:32",
+      "price": 47956.0,
       "price_currency": "CAD",
       "condition": "used"
     },
@@ -116,7 +126,7 @@
       "url": "https://willyml1979-dotcom.github.io/drayton-valley-ford-mirror/used/985763b5e1f4.html",
       "source_url": "https://www.draytonvalleyford.com/inventory/2023-ford-bronco-outer-banks-x0zeqZRTTgyHz2SSEfRqowvdp",
       "dealer_url": "https://www.draytonvalleyford.com/inventory/2023-ford-bronco-outer-banks-x0zeqZRTTgyHz2SSEfRqowvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-02T17:10:31",
+      "last_verified": "2026-10-06T15:36:13",
       "price": 50623.0,
       "price_currency": "CAD",
       "condition": "used"
@@ -145,6 +155,17 @@
       "last_verified": "2026-10-03T17:13:39",
       "price": 57178.0,
       "price_currency": "CAD",
+      "condition": "used"
+    },
+    {
+      "name": "Used2025FordSuper Duty F-350 SRW",
+      "vin": "1FT8W3BT1SED90946",
+      "stock": "25DFT08",
+      "color": "White",
+      "url": "https://willyml1979-dotcom.github.io/drayton-valley-ford-mirror/used/f6ec38c03d37.html",
+      "source_url": "https://www.draytonvalleyford.com/inventory/2025-ford-super-duty-f-350-srw-hB53nvAoQriQuj3TGVXzmAvdp",
+      "dealer_url": "https://www.draytonvalleyford.com/inventory/2025-ford-super-duty-f-350-srw-hB53nvAoQriQuj3TGVXzmAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-06T15:34:37",
       "condition": "used"
     },
     {
