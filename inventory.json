@@ -1,23 +1,10 @@
 {
   "dealership": "Drayton Valley Ford",
-  "generated_at": "2026-10-07T14:36:13",
-  "vehicle_count": 27,
+  "generated_at": "2026-10-07T15:40:52",
+  "vehicle_count": 25,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
   "vehicles": [
-    {
-      "name": "Used2016ToyotaCorolla",
-      "vin": "2T1BURHE1GC690942",
-      "stock": "36210",
-      "color": "Red",
-      "url": "https://willyml1979-dotcom.github.io/drayton-valley-ford-mirror/used/d8ca5ad9de0f.html",
-      "source_url": "https://www.draytonvalleyford.com/inventory/2016-toyota-corolla-S1w2KyuaQKqKt94gBP4fSwvdp",
-      "dealer_url": "https://www.draytonvalleyford.com/inventory/2016-toyota-corolla-S1w2KyuaQKqKt94gBP4fSwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-02T17:09:06",
-      "price": 20178.0,
-      "price_currency": "CAD",
-      "condition": "used"
-    },
     {
       "name": "Used2018FordSuper Duty F-350 SRW",
       "vin": "1FT8W3BT4JEC84666",
@@ -145,19 +132,6 @@
       "condition": "used"
     },
     {
-      "name": "Used2024FordF-150Lariat",
-      "vin": "1FTFW5L86RFA99831",
-      "stock": "26DFT10",
-      "color": "Gray",
-      "url": "https://willyml1979-dotcom.github.io/drayton-valley-ford-mirror/used/d33fd77c4304.html",
-      "source_url": "https://www.draytonvalleyford.com/inventory/2024-ford-f-150-lariat-kvd2BpJOQtajXm9caN2EEQvdp",
-      "dealer_url": "https://www.draytonvalleyford.com/inventory/2024-ford-f-150-lariat-kvd2BpJOQtajXm9caN2EEQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-03T17:13:39",
-      "price": 57178.0,
-      "price_currency": "CAD",
-      "condition": "used"
-    },
-    {
       "name": "Used2025FordSuper Duty F-350 SRW",
       "vin": "1FT8W3BT1SED90946",
       "stock": "25DFT08",
@@ -165,7 +139,7 @@
       "url": "https://willyml1979-dotcom.github.io/drayton-valley-ford-mirror/used/f6ec38c03d37.html",
       "source_url": "https://www.draytonvalleyford.com/inventory/2025-ford-super-duty-f-350-srw-hB53nvAoQriQuj3TGVXzmAvdp",
       "dealer_url": "https://www.draytonvalleyford.com/inventory/2025-ford-super-duty-f-350-srw-hB53nvAoQriQuj3TGVXzmAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-06T15:34:37",
+      "last_verified": "2026-10-07T15:38:14",
       "condition": "used"
     },
     {
