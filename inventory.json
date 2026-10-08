@@ -1,6 +1,6 @@
 {
   "dealership": "Drayton Valley Ford",
-  "generated_at": "2026-10-07T15:40:52",
+  "generated_at": "2026-10-07T20:04:58",
   "vehicle_count": 25,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
@@ -16,7 +16,8 @@
       "last_verified": "2026-10-03T17:12:03",
       "price": 52178.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "province": "AB"
     },
     {
       "name": "Used2019FordF-150XLT",
@@ -29,7 +30,8 @@
       "last_verified": "2026-10-06T15:35:10",
       "price": 30623.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "province": "AB"
     },
     {
       "name": "Used2020FordEcoSportTitanium",
@@ -39,7 +41,8 @@
       "source_url": "https://www.draytonvalleyford.com/inventory/2020-ford-ecosport-titanium-CkCTHf45T3OTzIIvwWi2OAvdp",
       "dealer_url": "https://www.draytonvalleyford.com/inventory/2020-ford-ecosport-titanium-CkCTHf45T3OTzIIvwWi2OAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-06T15:34:26",
-      "condition": "used"
+      "condition": "used",
+      "province": "AB"
     },
     {
       "name": "Used2021Ram1500 ClassicWarlock",
@@ -52,7 +55,8 @@
       "last_verified": "2026-10-03T17:12:28",
       "price": 34178.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "province": "AB"
     },
     {
       "name": "Used2022FordBroncoWildtrak",
@@ -65,7 +69,8 @@
       "last_verified": "2026-10-06T15:35:32",
       "price": 47956.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "province": "AB"
     },
     {
       "name": "Used2022FordEdge",
@@ -77,7 +82,8 @@
       "last_verified": "2026-10-03T17:12:49",
       "price": 22178.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "province": "AB"
     },
     {
       "name": "Used2022FordF-150XLT",
@@ -90,7 +96,8 @@
       "last_verified": "2026-10-03T17:12:58",
       "price": 39178.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "province": "AB"
     },
     {
       "name": "Used2022KiaSorento",
@@ -103,7 +110,8 @@
       "last_verified": "2026-10-02T17:10:19",
       "price": 29178.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "province": "AB"
     },
     {
       "name": "Used2023FordBroncoOuter Banks",
@@ -116,7 +124,8 @@
       "last_verified": "2026-10-06T15:36:13",
       "price": 50623.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "province": "AB"
     },
     {
       "name": "Used2023GMCTerrainSLE",
@@ -129,7 +138,8 @@
       "last_verified": "2026-10-03T17:13:28",
       "price": 24178.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "province": "AB"
     },
     {
       "name": "Used2025FordSuper Duty F-350 SRW",
@@ -140,7 +150,8 @@
       "source_url": "https://www.draytonvalleyford.com/inventory/2025-ford-super-duty-f-350-srw-hB53nvAoQriQuj3TGVXzmAvdp",
       "dealer_url": "https://www.draytonvalleyford.com/inventory/2025-ford-super-duty-f-350-srw-hB53nvAoQriQuj3TGVXzmAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-07T15:38:14",
-      "condition": "used"
+      "condition": "used",
+      "province": "AB"
     },
     {
       "name": "Used2025HyundaiVenuePreferred",
@@ -153,7 +164,8 @@
       "last_verified": "2026-10-02T17:11:03",
       "price": 21623.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "province": "AB"
     },
     {
       "name": "New2026FordBroncoBig Bend",
@@ -167,7 +179,8 @@
       "price": 65828.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "province": "AB"
     },
     {
       "name": "New2026FordBronco SportBadlands",
@@ -181,7 +194,8 @@
       "price": 55368.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "province": "AB"
     },
     {
       "name": "New2026FordF-150Tremor",
@@ -194,7 +208,8 @@
       "last_verified": "2026-10-07T14:34:43",
       "price": 97208.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "province": "AB"
     },
     {
       "name": "New2026FordF-150XLT",
@@ -208,7 +223,8 @@
       "price": 82868.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "province": "AB"
     },
     {
       "name": "New2026FordF-150XLT",
@@ -222,7 +238,8 @@
       "price": 82988.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "province": "AB"
     },
     {
       "name": "New2026FordMaverickLARIAT",
@@ -236,7 +253,8 @@
       "price": 51226.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "province": "AB"
     },
     {
       "name": "New2026FordRangerRaptor",
@@ -247,7 +265,8 @@
       "source_url": "https://www.draytonvalleyford.com/inventory/2026-ford-ranger-raptor-39m3eIDFS9KqvQt6djwn3Qvdp",
       "dealer_url": "https://www.draytonvalleyford.com/inventory/2026-ford-ranger-raptor-39m3eIDFS9KqvQt6djwn3Qvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-07T14:35:28",
-      "condition": "new"
+      "condition": "new",
+      "province": "AB"
     },
     {
       "name": "New2026FordRangerRaptor",
@@ -258,7 +277,8 @@
       "source_url": "https://www.draytonvalleyford.com/inventory/2026-ford-ranger-raptor-aRC7Jn0jRuCYyL4uRGGZTAvdp",
       "dealer_url": "https://www.draytonvalleyford.com/inventory/2026-ford-ranger-raptor-aRC7Jn0jRuCYyL4uRGGZTAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-07T14:34:04",
-      "condition": "new"
+      "condition": "new",
+      "province": "AB"
     },
     {
       "name": "New2026FordSuper Duty F-250 SRWXLT",
@@ -271,7 +291,8 @@
       "last_verified": "2026-10-07T14:34:17",
       "price": 93618.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "province": "AB"
     },
     {
       "name": "New2026FordSuper Duty F-350 SRWLariat",
@@ -284,7 +305,8 @@
       "last_verified": "2026-10-07T14:35:40",
       "price": 120106.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "province": "AB"
     },
     {
       "name": "New2027FordExpeditionPlatinum",
@@ -297,7 +319,8 @@
       "last_verified": "2026-10-02T17:13:35",
       "price": 112988.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "province": "AB"
     },
     {
       "name": "New2027FordSuper Duty F-250 SRWLARIAT",
@@ -309,7 +332,8 @@
       "dealer_url": "https://www.draytonvalleyford.com/inventory/2027-ford-super-duty-f-250-srw-lariat-NOyADrh2QwyiaukAwlgWAQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-07T14:35:55",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "province": "AB"
     },
     {
       "name": "New2027FordSuper Duty F-350 SRWPlatinum",
@@ -321,7 +345,8 @@
       "dealer_url": "https://www.draytonvalleyford.com/inventory/2027-ford-super-duty-f-350-srw-platinum-rN2PigbpRyyGJD85IMf8Bwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-07T14:36:07",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "province": "AB"
     }
   ]
 }
