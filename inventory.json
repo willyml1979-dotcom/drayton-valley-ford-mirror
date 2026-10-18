@@ -1,6 +1,6 @@
 {
   "dealership": "Drayton Valley Ford",
-  "generated_at": "2026-10-16T14:50:15",
+  "generated_at": "2026-10-17T20:03:26",
   "vehicle_count": 28,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
@@ -55,7 +55,7 @@
       "url": "https://willyml1979-dotcom.github.io/drayton-valley-ford-mirror/used/6f4dcf4dd9a7.html",
       "source_url": "https://www.draytonvalleyford.com/inventory/2020-polaris-rzr-base-rnIOFCzBS2aDBvOJtPhQRAvdp",
       "dealer_url": "https://www.draytonvalleyford.com/inventory/2020-polaris-rzr-base-rnIOFCzBS2aDBvOJtPhQRAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-16T14:48:07",
+      "last_verified": "2026-10-17T20:01:13",
       "price": 24178.0,
       "price_currency": "CAD",
       "condition": "used",
