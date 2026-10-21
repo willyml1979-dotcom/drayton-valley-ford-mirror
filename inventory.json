@@ -1,7 +1,7 @@
 {
   "dealership": "Drayton Valley Ford",
-  "generated_at": "2026-10-20T16:36:42",
-  "vehicle_count": 28,
+  "generated_at": "2026-10-20T22:20:28",
+  "vehicle_count": 26,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
   "vehicles": [
@@ -43,20 +43,6 @@
       "dealer_url": "https://www.draytonvalleyford.com/inventory/2020-ford-ecosport-titanium-CkCTHf45T3OTzIIvwWi2OAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-18T22:15:56",
       "price": 18178.0,
-      "price_currency": "CAD",
-      "condition": "used",
-      "province": "AB"
-    },
-    {
-      "name": "Used2020PolarisRZR Pro XP",
-      "vin": "3NSRAD925LG818841",
-      "stock": "36395",
-      "color": "Blue",
-      "url": "https://willyml1979-dotcom.github.io/drayton-valley-ford-mirror/used/6f4dcf4dd9a7.html",
-      "source_url": "https://www.draytonvalleyford.com/inventory/2020-polaris-rzr-base-rnIOFCzBS2aDBvOJtPhQRAvdp",
-      "dealer_url": "https://www.draytonvalleyford.com/inventory/2020-polaris-rzr-base-rnIOFCzBS2aDBvOJtPhQRAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-18T22:15:35",
-      "price": 24178.0,
       "price_currency": "CAD",
       "condition": "used",
       "province": "AB"
@@ -142,25 +128,14 @@
       "province": "AB"
     },
     {
-      "name": "Used2024FordBroncoRaptor",
-      "vin": "1FMEE0RR5RLA61960",
-      "stock": "24DBR00",
-      "url": "https://willyml1979-dotcom.github.io/drayton-valley-ford-mirror/used/111267278f2f.html",
-      "source_url": "https://www.draytonvalleyford.com/inventory/2024-ford-bronco-raptor-YOq5OOAIRa2M5NLYM1NLQgvdp",
-      "dealer_url": "https://www.draytonvalleyford.com/inventory/2024-ford-bronco-raptor-YOq5OOAIRa2M5NLYM1NLQgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-18T22:15:15",
-      "condition": "used",
-      "province": "AB"
-    },
-    {
       "name": "Used2025FordSuper Duty F-350 SRWLariat",
       "vin": "1FT8W3BT1SED90946",
       "stock": "9755",
-      "color": "White",
+      "color": "Gray",
       "url": "https://willyml1979-dotcom.github.io/drayton-valley-ford-mirror/used/2f39b2417ab4.html",
       "source_url": "https://www.draytonvalleyford.com/inventory/2025-ford-super-duty-f-350-srw-lariat-hB53nvAoQriQuj3TGVXzmAvdp",
       "dealer_url": "https://www.draytonvalleyford.com/inventory/2025-ford-super-duty-f-350-srw-lariat-hB53nvAoQriQuj3TGVXzmAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-16T14:48:41",
+      "last_verified": "2026-10-20T22:18:58",
       "price": 93178.0,
       "price_currency": "CAD",
       "condition": "used",
