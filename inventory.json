@@ -1,7 +1,7 @@
 {
   "dealership": "Drayton Valley Ford",
-  "generated_at": "2026-10-20T22:20:28",
-  "vehicle_count": 26,
+  "generated_at": "2026-10-24T22:22:03",
+  "vehicle_count": 24,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
   "vehicles": [
@@ -62,16 +62,6 @@
       "province": "AB"
     },
     {
-      "name": "Used2022FordF-150",
-      "vin": "1FTEW1EP1NFC01300",
-      "url": "https://willyml1979-dotcom.github.io/drayton-valley-ford-mirror/used/5c9039c4e510.html",
-      "source_url": "https://www.draytonvalleyford.com/inventory/2022-ford-f-150-8JBgyGkGRTers1vqvbTG4gvdp",
-      "dealer_url": "https://www.draytonvalleyford.com/inventory/2022-ford-f-150-8JBgyGkGRTers1vqvbTG4gvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-18T22:15:05",
-      "condition": "used",
-      "province": "AB"
-    },
-    {
       "name": "Used2022FordF-150XLT",
       "vin": "1FTFW1E85NKD46862",
       "stock": "OP411",
@@ -109,20 +99,6 @@
       "dealer_url": "https://www.draytonvalleyford.com/inventory/2023-ford-bronco-outer-banks-x0zeqZRTTgyHz2SSEfRqowvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-18T22:16:49",
       "price": 50623.0,
-      "price_currency": "CAD",
-      "condition": "used",
-      "province": "AB"
-    },
-    {
-      "name": "Used2023GMCTerrainSLE",
-      "vin": "3GKALTEG1PL177046",
-      "stock": "36259",
-      "color": "Black",
-      "url": "https://willyml1979-dotcom.github.io/drayton-valley-ford-mirror/used/9b8c03e3324a.html",
-      "source_url": "https://www.draytonvalleyford.com/inventory/2023-gmc-terrain-sle-2hPvh6nYSh6PWnCoLjfHdAvdp",
-      "dealer_url": "https://www.draytonvalleyford.com/inventory/2023-gmc-terrain-sle-2hPvh6nYSh6PWnCoLjfHdAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-16T14:50:01",
-      "price": 24178.0,
       "price_currency": "CAD",
       "condition": "used",
       "province": "AB"
