@@ -1,7 +1,7 @@
 {
   "dealership": "Drayton Valley Ford",
-  "generated_at": "2026-11-16T14:56:35",
-  "vehicle_count": 34,
+  "generated_at": "2026-11-16T16:04:22",
+  "vehicle_count": 44,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -9,6 +9,14 @@
       "name": "Used2017FordFusionSE",
       "vin": "3FA6P0H78HR135395",
       "url": "https://willyml1979-dotcom.github.io/drayton-valley-ford-mirror/used/e714c3e4f21f.html",
+      "condition": "used",
+      "price": 13178.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Used2017FordFusionSE",
+      "vin": "3FA6P0H78HR135395",
+      "url": "https://willyml1979-dotcom.github.io/drayton-valley-ford-mirror/used/427e4c20af5c.html",
       "condition": "used",
       "price": 13178.0,
       "price_currency": "CAD"
@@ -30,6 +38,22 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Used2020FordEcoSportTitanium",
+      "vin": "MAJ6S3KLXLC332923",
+      "url": "https://willyml1979-dotcom.github.io/drayton-valley-ford-mirror/used/1801891faaa7.html",
+      "condition": "used",
+      "price": 18178.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Used2020PolarisRZR Pro XP",
+      "vin": "3NSRAD925LG818841",
+      "url": "https://willyml1979-dotcom.github.io/drayton-valley-ford-mirror/used/002d4dfa013b.html",
+      "condition": "used",
+      "price": 24178.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "Used2021Ram1500 ClassicWarlock",
       "vin": "1C6RR7LT8MS511775",
       "url": "https://willyml1979-dotcom.github.io/drayton-valley-ford-mirror/used/64969b1c02d5.html",
@@ -38,11 +62,27 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Used2022FordF-150Lariat",
+      "vin": "1FTEW1EP1NFC01300",
+      "url": "https://willyml1979-dotcom.github.io/drayton-valley-ford-mirror/used/9fb841460932.html",
+      "condition": "used",
+      "price": 51178.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "Used2022FordF-150XLT",
       "vin": "1FTFW1E85NKD46862",
       "url": "https://willyml1979-dotcom.github.io/drayton-valley-ford-mirror/used/8c25040bc576.html",
       "condition": "used",
       "price": 39178.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Used2022FordF-150XLT",
+      "vin": "1FTFW1E80NKE09236",
+      "url": "https://willyml1979-dotcom.github.io/drayton-valley-ford-mirror/used/434f8252191b.html",
+      "condition": "used",
+      "price": 36777.0,
       "price_currency": "CAD"
     },
     {
@@ -62,11 +102,51 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Used2024FordF-150Lariat",
+      "vin": "1FTFW5L83RFA66172",
+      "url": "https://willyml1979-dotcom.github.io/drayton-valley-ford-mirror/used/61734448040e.html",
+      "condition": "used",
+      "price": 59777.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Used2025FordBronco SportBig Bend",
+      "vin": "3FMCR9BN9SRE78383",
+      "url": "https://willyml1979-dotcom.github.io/drayton-valley-ford-mirror/used/9f63a38c36df.html",
+      "condition": "used",
+      "price": 30178.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Used2025FordBronco SportBig Bend",
+      "vin": "3FMCR9BN6SRE11949",
+      "url": "https://willyml1979-dotcom.github.io/drayton-valley-ford-mirror/used/eaa66da50c39.html",
+      "condition": "used",
+      "price": 30178.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "Used2025FordSuper Duty F-350 SRWLariat",
       "vin": "1FT8W3BT1SED90946",
       "url": "https://willyml1979-dotcom.github.io/drayton-valley-ford-mirror/used/2f39b2417ab4.html",
       "condition": "used",
       "price": 93178.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Used2025FordSuper Duty F-350 SRWLariat",
+      "vin": "1FT8W3BT1SED90946",
+      "url": "https://willyml1979-dotcom.github.io/drayton-valley-ford-mirror/used/8a0f5b457ee8.html",
+      "condition": "used",
+      "price": 92178.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Used2025GMCSierra 2500HDSLE",
+      "vin": "1GT4UME70SF167199",
+      "url": "https://willyml1979-dotcom.github.io/drayton-valley-ford-mirror/used/0fb5a59c9788.html",
+      "condition": "used",
+      "price": 60777.0,
       "price_currency": "CAD"
     },
     {
