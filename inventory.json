@@ -1,351 +1,277 @@
 {
   "dealership": "Drayton Valley Ford",
-  "generated_at": "2026-10-24T22:22:03",
-  "vehicle_count": 24,
+  "generated_at": "2026-11-16T14:56:35",
+  "vehicle_count": 34,
   "currency": "CAD",
-  "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
+  "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
     {
       "name": "Used2017FordFusionSE",
       "vin": "3FA6P0H78HR135395",
-      "stock": "RM041",
-      "color": "Blue",
       "url": "https://willyml1979-dotcom.github.io/drayton-valley-ford-mirror/used/e714c3e4f21f.html",
-      "source_url": "https://www.draytonvalleyford.com/inventory/2017-ford-fusion-se-tH4HWiUmT2OlHGNo3yJZlwvdp",
-      "dealer_url": "https://www.draytonvalleyford.com/inventory/2017-ford-fusion-se-tH4HWiUmT2OlHGNo3yJZlwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-18T22:15:26",
-      "price": 13178.0,
-      "price_currency": "CAD",
       "condition": "used",
-      "province": "AB"
+      "price": 13178.0,
+      "price_currency": "CAD"
     },
     {
       "name": "Used2019FordF-150XLT",
       "vin": "1FTFX1E4XKKF04862",
-      "stock": "36078",
-      "color": "Black",
       "url": "https://willyml1979-dotcom.github.io/drayton-valley-ford-mirror/used/d9ee64df53a4.html",
-      "source_url": "https://www.draytonvalleyford.com/inventory/2019-ford-f-150-xlt-N1LYo0XbTk6UATTFIdd4NAvdp",
-      "dealer_url": "https://www.draytonvalleyford.com/inventory/2019-ford-f-150-xlt-N1LYo0XbTk6UATTFIdd4NAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-16T14:49:03",
-      "price": 30623.0,
-      "price_currency": "CAD",
       "condition": "used",
-      "province": "AB"
+      "price": 30623.0,
+      "price_currency": "CAD"
     },
     {
       "name": "Used2020FordEcoSportTitanium",
       "vin": "MAJ6S3KLXLC332923",
-      "stock": "34988",
-      "color": "Black",
       "url": "https://willyml1979-dotcom.github.io/drayton-valley-ford-mirror/used/26191cbd8610.html",
-      "source_url": "https://www.draytonvalleyford.com/inventory/2020-ford-ecosport-titanium-CkCTHf45T3OTzIIvwWi2OAvdp",
-      "dealer_url": "https://www.draytonvalleyford.com/inventory/2020-ford-ecosport-titanium-CkCTHf45T3OTzIIvwWi2OAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-18T22:15:56",
-      "price": 18178.0,
-      "price_currency": "CAD",
       "condition": "used",
-      "province": "AB"
+      "price": 18178.0,
+      "price_currency": "CAD"
     },
     {
       "name": "Used2021Ram1500 ClassicWarlock",
       "vin": "1C6RR7LT8MS511775",
-      "stock": "26DFT07",
-      "color": "Red",
       "url": "https://willyml1979-dotcom.github.io/drayton-valley-ford-mirror/used/64969b1c02d5.html",
-      "source_url": "https://www.draytonvalleyford.com/inventory/2021-ram-1500-classic-warlock-Ps0ecoiHSEq2wlg3H1BifQvdp",
-      "dealer_url": "https://www.draytonvalleyford.com/inventory/2021-ram-1500-classic-warlock-Ps0ecoiHSEq2wlg3H1BifQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-16T14:49:12",
-      "price": 34178.0,
-      "price_currency": "CAD",
       "condition": "used",
-      "province": "AB"
+      "price": 34178.0,
+      "price_currency": "CAD"
     },
     {
       "name": "Used2022FordF-150XLT",
       "vin": "1FTFW1E85NKD46862",
-      "stock": "OP411",
-      "color": "Blue",
       "url": "https://willyml1979-dotcom.github.io/drayton-valley-ford-mirror/used/8c25040bc576.html",
-      "source_url": "https://www.draytonvalleyford.com/inventory/2022-ford-f-150-xlt-8wKdsfukQMCbUFz6xAtDIQvdp",
-      "dealer_url": "https://www.draytonvalleyford.com/inventory/2022-ford-f-150-xlt-8wKdsfukQMCbUFz6xAtDIQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-16T14:49:31",
-      "price": 39178.0,
-      "price_currency": "CAD",
       "condition": "used",
-      "province": "AB"
+      "price": 39178.0,
+      "price_currency": "CAD"
     },
     {
       "name": "Used2022KiaSorento",
       "vin": "5XYRHDLF9NG147393",
-      "stock": "36276",
-      "color": "Black",
       "url": "https://willyml1979-dotcom.github.io/drayton-valley-ford-mirror/used/b385c28ecc31.html",
-      "source_url": "https://www.draytonvalleyford.com/inventory/2022-kia-sorento-5xUFNMEfRoqmmWXO2L18cwvdp",
-      "dealer_url": "https://www.draytonvalleyford.com/inventory/2022-kia-sorento-5xUFNMEfRoqmmWXO2L18cwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-16T14:49:39",
-      "price": 29178.0,
-      "price_currency": "CAD",
       "condition": "used",
-      "province": "AB"
+      "price": 29178.0,
+      "price_currency": "CAD"
     },
     {
       "name": "Used2023FordBroncoOuter Banks",
       "vin": "1FMDE5DH3PLB57395",
-      "stock": "OP408",
-      "color": "Gray",
       "url": "https://willyml1979-dotcom.github.io/drayton-valley-ford-mirror/used/985763b5e1f4.html",
-      "source_url": "https://www.draytonvalleyford.com/inventory/2023-ford-bronco-outer-banks-x0zeqZRTTgyHz2SSEfRqowvdp",
-      "dealer_url": "https://www.draytonvalleyford.com/inventory/2023-ford-bronco-outer-banks-x0zeqZRTTgyHz2SSEfRqowvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-18T22:16:49",
-      "price": 50623.0,
-      "price_currency": "CAD",
       "condition": "used",
-      "province": "AB"
+      "price": 50623.0,
+      "price_currency": "CAD"
     },
     {
       "name": "Used2025FordSuper Duty F-350 SRWLariat",
       "vin": "1FT8W3BT1SED90946",
-      "stock": "9755",
-      "color": "Gray",
       "url": "https://willyml1979-dotcom.github.io/drayton-valley-ford-mirror/used/2f39b2417ab4.html",
-      "source_url": "https://www.draytonvalleyford.com/inventory/2025-ford-super-duty-f-350-srw-lariat-hB53nvAoQriQuj3TGVXzmAvdp",
-      "dealer_url": "https://www.draytonvalleyford.com/inventory/2025-ford-super-duty-f-350-srw-lariat-hB53nvAoQriQuj3TGVXzmAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-20T22:18:58",
-      "price": 93178.0,
-      "price_currency": "CAD",
       "condition": "used",
-      "province": "AB"
+      "price": 93178.0,
+      "price_currency": "CAD"
     },
     {
       "name": "Used2025HyundaiVenuePreferred",
       "vin": "KMHRC8A3XSU364844",
-      "stock": "36110",
-      "color": "Gray",
       "url": "https://willyml1979-dotcom.github.io/drayton-valley-ford-mirror/used/a3d373df6086.html",
-      "source_url": "https://www.draytonvalleyford.com/inventory/2025-hyundai-venue-preferred-LS7NnowlRoierh41GiKcvAvdp",
-      "dealer_url": "https://www.draytonvalleyford.com/inventory/2025-hyundai-venue-preferred-LS7NnowlRoierh41GiKcvAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-16T14:50:11",
-      "price": 21623.0,
-      "price_currency": "CAD",
       "condition": "used",
-      "province": "AB"
+      "price": 21623.0,
+      "price_currency": "CAD"
     },
     {
       "name": "New2026FordBroncoBig Bend",
       "vin": "1FMDE7BH5TLB62008",
-      "stock": "36173",
-      "color": "Tan",
       "url": "https://willyml1979-dotcom.github.io/drayton-valley-ford-mirror/new/923ffa6be7e5.html",
-      "source_url": "https://www.draytonvalleyford.com/inventory/2026-ford-bronco-big-bend-1B0ZThG8QVKU7nuy1OTXWwvdp",
-      "dealer_url": "https://www.draytonvalleyford.com/inventory/2026-ford-bronco-big-bend-1B0ZThG8QVKU7nuy1OTXWwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-20T16:35:29",
-      "price": 65828.0,
-      "price_currency": "CAD",
-      "odometer_km": 16000,
       "condition": "new",
-      "province": "AB"
+      "price": 65828.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New2026FordBroncoBig Bend",
+      "vin": "1FMDE7BH7TLB59479",
+      "url": "https://willyml1979-dotcom.github.io/drayton-valley-ford-mirror/new/d875615cdec0.html",
+      "condition": "new",
+      "price": 67633.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New2026FordExplorerST",
+      "vin": "1FMWK8GC7TGB02969",
+      "url": "https://willyml1979-dotcom.github.io/drayton-valley-ford-mirror/new/fbdb8d921351.html",
+      "condition": "new",
+      "price": 76428.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New2026FordExplorerST-Line",
+      "vin": "1FMUK8KH4TGC50779",
+      "url": "https://willyml1979-dotcom.github.io/drayton-valley-ford-mirror/new/bf0842fbb859.html",
+      "condition": "new",
+      "price": 68363.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New2026FordF-150Lariat",
+      "vin": "1FTFW5L81TKF51733",
+      "url": "https://willyml1979-dotcom.github.io/drayton-valley-ford-mirror/new/73b03c99d7b7.html",
+      "condition": "new",
+      "price": 92843.0,
+      "price_currency": "CAD"
     },
     {
       "name": "New2026FordF-150Lariat",
       "vin": "1FTFW5L86TFC25130",
-      "stock": "36251",
-      "color": "White",
       "url": "https://willyml1979-dotcom.github.io/drayton-valley-ford-mirror/new/7a700a56fdd9.html",
-      "source_url": "https://www.draytonvalleyford.com/inventory/2026-ford-f-150-lariat-IjCpQXcpTqqi2q9aImK20Qvdp",
-      "dealer_url": "https://www.draytonvalleyford.com/inventory/2026-ford-f-150-lariat-IjCpQXcpTqqi2q9aImK20Qvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-20T16:34:01",
-      "price": 94243.0,
-      "price_currency": "CAD",
-      "odometer_km": 16000,
       "condition": "new",
-      "province": "AB"
+      "price": 94243.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New2026FordF-150Lariat",
+      "vin": "1FTFW5L87TKF41983",
+      "url": "https://willyml1979-dotcom.github.io/drayton-valley-ford-mirror/new/9944f76352ab.html",
+      "condition": "new",
+      "price": 93438.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New2026FordF-150Raptor",
+      "vin": "1FTFW1RJ1TFB96557",
+      "url": "https://willyml1979-dotcom.github.io/drayton-valley-ford-mirror/new/d61ebdc7807a.html",
+      "condition": "new"
     },
     {
       "name": "New2026FordF-150Tremor",
       "vin": "1FTFW4L87TFC21310",
-      "stock": "36248",
-      "color": "Gray",
       "url": "https://willyml1979-dotcom.github.io/drayton-valley-ford-mirror/new/062cde3c19ba.html",
-      "source_url": "https://www.draytonvalleyford.com/inventory/2026-ford-f-150-tremor-3nBRMmDGTEiOqm4VDFFeYwvdp",
-      "dealer_url": "https://www.draytonvalleyford.com/inventory/2026-ford-f-150-tremor-3nBRMmDGTEiOqm4VDFFeYwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-20T16:34:29",
-      "price": 89933.0,
-      "price_currency": "CAD",
-      "odometer_km": 16000,
       "condition": "new",
-      "province": "AB"
+      "price": 89933.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New2026FordF-150Tremor",
+      "vin": "1FTFW4L87TFC20724",
+      "url": "https://willyml1979-dotcom.github.io/drayton-valley-ford-mirror/new/c261498722cf.html",
+      "condition": "new",
+      "price": 88888.0,
+      "price_currency": "CAD"
     },
     {
       "name": "New2026FordF-150Tremor",
       "vin": "1FTFW4L80TFC28728",
-      "stock": "36247",
-      "color": "Gray",
       "url": "https://willyml1979-dotcom.github.io/drayton-valley-ford-mirror/new/c49d278ed043.html",
-      "source_url": "https://www.draytonvalleyford.com/inventory/2026-ford-f-150-tremor-VZo0OUsGTFmMgTk4iBsNfQvdp",
-      "dealer_url": "https://www.draytonvalleyford.com/inventory/2026-ford-f-150-tremor-VZo0OUsGTFmMgTk4iBsNfQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-20T16:34:41",
-      "price": 89958.0,
-      "price_currency": "CAD",
-      "odometer_km": 16000,
       "condition": "new",
-      "province": "AB"
+      "price": 89958.0,
+      "price_currency": "CAD"
     },
     {
       "name": "New2026FordF-150Tremor",
       "vin": "1FTFW4L81TFB71715",
-      "stock": "36288",
-      "color": "Gray",
       "url": "https://willyml1979-dotcom.github.io/drayton-valley-ford-mirror/new/7b92c1f75047.html",
-      "source_url": "https://www.draytonvalleyford.com/inventory/2026-ford-f-150-tremor-jMy5ybg3T52JdZvC1XSMkgvdp",
-      "dealer_url": "https://www.draytonvalleyford.com/inventory/2026-ford-f-150-tremor-jMy5ybg3T52JdZvC1XSMkgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-20T16:35:41",
-      "price": 97208.0,
-      "price_currency": "CAD",
-      "odometer_km": 16000,
       "condition": "new",
-      "province": "AB"
+      "price": 97208.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New2026FordF-150Tremor",
+      "vin": "1FTFW4L5XTFB50948",
+      "url": "https://willyml1979-dotcom.github.io/drayton-valley-ford-mirror/new/80d00411c4de.html",
+      "condition": "new",
+      "price": 89783.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New2026FordF-150Tremor",
+      "vin": "1FTFW4L59TFC18916",
+      "url": "https://willyml1979-dotcom.github.io/drayton-valley-ford-mirror/new/68c219f2d719.html",
+      "condition": "new",
+      "price": 93358.0,
+      "price_currency": "CAD"
     },
     {
       "name": "New2026FordF-150XLT",
       "vin": "1FTFW3L81TKF12922",
-      "stock": "36175",
-      "color": "White",
       "url": "https://willyml1979-dotcom.github.io/drayton-valley-ford-mirror/new/59a2765054c8.html",
-      "source_url": "https://www.draytonvalleyford.com/inventory/2026-ford-f-150-xlt-9g5Au5mGRNKP07Naa8h1Qwvdp",
-      "dealer_url": "https://www.draytonvalleyford.com/inventory/2026-ford-f-150-xlt-9g5Au5mGRNKP07Naa8h1Qwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-20T16:35:53",
-      "price": 82868.0,
-      "price_currency": "CAD",
-      "odometer_km": 16000,
       "condition": "new",
-      "province": "AB"
+      "price": 82868.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New2026FordF-150XLT",
+      "vin": "1FTFW3L56TFB79423",
+      "url": "https://willyml1979-dotcom.github.io/drayton-valley-ford-mirror/new/c1d5901ccb45.html",
+      "condition": "new",
+      "price": 86818.0,
+      "price_currency": "CAD"
     },
     {
       "name": "New2026FordMaverickLARIAT",
       "vin": "3FTTW8SA4TRB27824",
-      "stock": "36161",
-      "color": "Blue",
       "url": "https://willyml1979-dotcom.github.io/drayton-valley-ford-mirror/new/a84bc9546609.html",
-      "source_url": "https://www.draytonvalleyford.com/inventory/2026-ford-maverick-lariat-cEATzxAWQ3mjrU2hS1pE5wvdp",
-      "dealer_url": "https://www.draytonvalleyford.com/inventory/2026-ford-maverick-lariat-cEATzxAWQ3mjrU2hS1pE5wvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-13T16:28:37",
-      "price": 51226.0,
-      "price_currency": "CAD",
-      "odometer_km": 16000,
       "condition": "new",
-      "province": "AB"
+      "price": 51226.0,
+      "price_currency": "CAD"
     },
     {
       "name": "New2026FordRangerRaptor",
       "vin": "1FTER4LR1TLE45010",
-      "stock": "35990",
-      "color": "Gray",
       "url": "https://willyml1979-dotcom.github.io/drayton-valley-ford-mirror/new/da59d8a3a59a.html",
-      "source_url": "https://www.draytonvalleyford.com/inventory/2026-ford-ranger-raptor-39m3eIDFS9KqvQt6djwn3Qvdp",
-      "dealer_url": "https://www.draytonvalleyford.com/inventory/2026-ford-ranger-raptor-39m3eIDFS9KqvQt6djwn3Qvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-20T16:36:16",
-      "condition": "new",
-      "province": "AB"
-    },
-    {
-      "name": "New2026FordRangerRaptor",
-      "vin": "1FTER4LR7TLE37655",
-      "stock": "26DFR00",
-      "color": "Black",
-      "url": "https://willyml1979-dotcom.github.io/drayton-valley-ford-mirror/new/a774d26ed941.html",
-      "source_url": "https://www.draytonvalleyford.com/inventory/2026-ford-ranger-raptor-aRC7Jn0jRuCYyL4uRGGZTAvdp",
-      "dealer_url": "https://www.draytonvalleyford.com/inventory/2026-ford-ranger-raptor-aRC7Jn0jRuCYyL4uRGGZTAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-20T16:35:05",
-      "condition": "new",
-      "province": "AB"
+      "condition": "new"
     },
     {
       "name": "New2026FordSuper Duty F-250 SRWXLT",
       "vin": "1FT7W2BA4TEF59296",
-      "stock": "35953",
-      "color": "Gray",
       "url": "https://willyml1979-dotcom.github.io/drayton-valley-ford-mirror/new/3d94845b515d.html",
-      "source_url": "https://www.draytonvalleyford.com/inventory/2026-ford-super-duty-f-250-srw-xlt-uuAZToQAQomc9qtdYg6uWQvdp",
-      "dealer_url": "https://www.draytonvalleyford.com/inventory/2026-ford-super-duty-f-250-srw-xlt-uuAZToQAQomc9qtdYg6uWQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-20T16:35:17",
-      "price": 93618.0,
-      "price_currency": "CAD",
       "condition": "new",
-      "province": "AB"
+      "price": 93618.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New2026FordSuper Duty F-350 DRWXLT",
+      "vin": "1FT8W3DT6TED77334",
+      "url": "https://willyml1979-dotcom.github.io/drayton-valley-ford-mirror/new/d24338275274.html",
+      "condition": "new",
+      "price": 103588.0,
+      "price_currency": "CAD"
     },
     {
       "name": "New2026FordSuper Duty F-350 SRWLariat",
       "vin": "1FT8W3BTXTEF47391",
-      "stock": "36144",
-      "color": "Gray",
       "url": "https://willyml1979-dotcom.github.io/drayton-valley-ford-mirror/new/1f25bccac507.html",
-      "source_url": "https://www.draytonvalleyford.com/inventory/2026-ford-super-duty-f-350-srw-lariat-YLjIuDf3TduErORMvXYDewvdp",
-      "dealer_url": "https://www.draytonvalleyford.com/inventory/2026-ford-super-duty-f-350-srw-lariat-YLjIuDf3TduErORMvXYDewvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-20T16:36:27",
-      "price": 120106.0,
-      "price_currency": "CAD",
       "condition": "new",
-      "province": "AB"
+      "price": 120106.0,
+      "price_currency": "CAD"
     },
     {
       "name": "New2026FordSuper Duty F-350 SRWLariat",
       "vin": "1FT8W3BM2TEE58908",
-      "stock": "36339",
-      "color": "Gray",
       "url": "https://willyml1979-dotcom.github.io/drayton-valley-ford-mirror/new/41c6af9d59a5.html",
-      "source_url": "https://www.draytonvalleyford.com/inventory/2026-ford-super-duty-f-350-srw-lariat-wgOGjBoKQwWHvlMDdyp3ygvdp",
-      "dealer_url": "https://www.draytonvalleyford.com/inventory/2026-ford-super-duty-f-350-srw-lariat-wgOGjBoKQwWHvlMDdyp3ygvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-20T16:34:52",
-      "price": 130852.0,
-      "price_currency": "CAD",
       "condition": "new",
-      "province": "AB"
+      "price": 130852.0,
+      "price_currency": "CAD"
     },
     {
       "name": "New2027FordSuper Duty F-250 SRW",
       "vin": "1FT7W2BN3VEC66950",
-      "stock": "36285",
-      "color": "White",
       "url": "https://willyml1979-dotcom.github.io/drayton-valley-ford-mirror/new/d1e0f7019ce2.html",
-      "source_url": "https://www.draytonvalleyford.com/inventory/2027-ford-super-duty-f-250-srw-aTJkGrHpSOWZPm0ktMpYPgvdp",
-      "dealer_url": "https://www.draytonvalleyford.com/inventory/2027-ford-super-duty-f-250-srw-aTJkGrHpSOWZPm0ktMpYPgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-20T16:34:10",
-      "price": 105317.0,
-      "price_currency": "CAD",
-      "odometer_km": 16000,
       "condition": "new",
-      "province": "AB"
+      "price": 105317.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New2027FordSuper Duty F-250 SRW",
+      "vin": "1FT7W2BN3VEC66950",
+      "url": "https://willyml1979-dotcom.github.io/drayton-valley-ford-mirror/new/30045f8df029.html",
+      "condition": "new",
+      "price": 105317.0,
+      "price_currency": "CAD"
     },
     {
       "name": "New2027FordSuper Duty F-250 SRWLARIAT",
       "vin": "1FT8W2BM7VEC15222",
-      "stock": "36094",
-      "color": "Blue",
       "url": "https://willyml1979-dotcom.github.io/drayton-valley-ford-mirror/new/41d831ad6f85.html",
-      "source_url": "https://www.draytonvalleyford.com/inventory/2027-ford-super-duty-f-250-srw-lariat-NOyADrh2QwyiaukAwlgWAQvdp",
-      "dealer_url": "https://www.draytonvalleyford.com/inventory/2027-ford-super-duty-f-250-srw-lariat-NOyADrh2QwyiaukAwlgWAQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-20T16:36:38",
+      "condition": "new",
       "price": 124961.0,
-      "price_currency": "CAD",
-      "odometer_km": 16000,
-      "condition": "new",
-      "province": "AB"
-    },
-    {
-      "name": "New2027FordSuper Duty F-350 SRWPlatinum",
-      "vin": "1FT8W3BM4VEC06175",
-      "stock": "36153",
-      "color": "Blue",
-      "url": "https://willyml1979-dotcom.github.io/drayton-valley-ford-mirror/new/33f13b451ad4.html",
-      "source_url": "https://www.draytonvalleyford.com/inventory/2027-ford-super-duty-f-350-srw-platinum-rN2PigbpRyyGJD85IMf8Bwvdp",
-      "dealer_url": "https://www.draytonvalleyford.com/inventory/2027-ford-super-duty-f-350-srw-platinum-rN2PigbpRyyGJD85IMf8Bwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-13T16:29:20",
-      "price": 135593.0,
-      "price_currency": "CAD",
-      "odometer_km": 16000,
-      "condition": "new",
-      "province": "AB"
+      "price_currency": "CAD"
     }
   ]
 }
